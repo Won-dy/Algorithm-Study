@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DFS-BFS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stack-Queue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
