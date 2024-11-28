@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/TwoPointer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Greedy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SlidingWindow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrefixSum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
